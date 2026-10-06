@@ -2,7 +2,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me akif.abdullah.aa32@gmail.com<br>💬 Love to talk about programming and new technologies<br>
+🔭 I’m currently working on Full Stack technologies including AI/ML as well<br>📫 How to reach me akif.abdullah.aa32@gmail.com<br>💬 Love to talk about programming and new technologies<br>
 <br>
 
 # 💻 Tech Stack:
